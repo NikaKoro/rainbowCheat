@@ -1,0 +1,17 @@
+Package: rainbowCheat
+Type: Package
+Title: Create Rainbow Line Graphs from Dataframes and Produces Cheatcodes 
+Version: 0.1.0
+Author: Anika Korobkov
+Maintainer: Anika Korobkov <anika.korobkov@student.uva.nl>
+Description: This package provides a function to create rainbow-colored line graphs
+    with two variables from your dataframe. This package also contains a function that provides helpful information
+    about some R functions.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/NikaKoro/rainbowCheat
+BugReports: https://github.com/NikaKoro/rainbowCheat/issues
+RoxygenNote: 7.3.2
+Imports: 
+    ggplot2
